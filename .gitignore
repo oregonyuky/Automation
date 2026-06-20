@@ -1,6 +1,0 @@
-*.env
-__pycache__/
-*.xlsx
-build/
-dist/
-start.spec
