@@ -1,0 +1,9 @@
+python -m PyInstaller --onefile ^
+--collect-all selenium ^
+--collect-all pandas ^
+--collect-all dotenv ^
+--collect-all openpyxl ^
+--collect-all bs4 ^
+--collect-all pyfiglet ^
+--collect-all colorama ^
+automation.py
